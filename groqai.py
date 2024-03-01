@@ -13,6 +13,7 @@ class GroqAIConfig(LLMSettings):
     max_tokens: Optional[int] = 32768
     top_p: float = 1
     temperature: float = 0.7
+    streaming: bool = False
     
     _pyclass: Type = ChatGroq
 
