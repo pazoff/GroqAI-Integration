@@ -1,0 +1,9 @@
+{
+    "name": "GroqAI",
+    "version": "0.0.1",
+    "description": "Integration of GroqAI - the fastest inference in the world - groq.com",
+    "author_name": "pazoff",
+    "plugin_url": "https://github.com/pazoff/GroqAI-Integration",
+    "tags": "inference, integrations, GroqAI",
+    "thumb": "https://raw.githubusercontent.com/pazoff/GroqAI-Integration/main/groqai-logo.png"
+}
