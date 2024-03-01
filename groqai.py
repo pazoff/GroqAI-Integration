@@ -12,6 +12,7 @@ class GroqAIConfig(LLMSettings):
     model: str = "mixtral-8x7b-32768"
     max_tokens: Optional[int] = 32768
     top_p: float = 1
+    temperature: float = 0.7
     
     _pyclass: Type = ChatGroq
 
